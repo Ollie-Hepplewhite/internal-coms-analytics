@@ -1,0 +1,820 @@
+EmailID,DataSent,DayOfWeek,HourSent,SenderRole,RecipientCount,EmailType,SubjectLength,WasResponded,ResponseTimeHours
+1,19/02/2025,Wednesday,17,HR,18,Reminder,15,No,
+2,07/02/2025,Friday,15,HR,46,Meeting,63,Yes,30.7
+3,10/01/2025,Friday,8,Manager,4,HR Request,41,No,
+4,20/02/2025,Thursday,11,Ops,49,Meeting,47,Yes,30.2
+5,22/02/2025,Saturday,8,Manager,9,Meeting,26,Yes,14.9
+6,20/01/2025,Monday,13,HR,26,FYI,15,Yes,35.9
+7,11/01/2025,Saturday,8,Exec,11,FYI,43,Yes,26.6
+8,10/01/2025,Friday,9,HR,34,Reminder,29,No,
+9,09/02/2025,Sunday,17,HR,38,Reminder,60,Yes,37.0
+10,19/01/2025,Sunday,11,Exec,25,Reminder,67,No,
+11,04/02/2025,Tuesday,16,Exec,30,Meeting,31,Yes,0.8
+12,24/01/2025,Friday,8,HR,18,FYI,70,No,
+13,15/02/2025,Saturday,18,Ops,23,HR Request,28,Yes,32.9
+14,16/02/2025,Sunday,10,Ops,44,Meeting,61,Yes,24.5
+15,16/01/2025,Thursday,9,Exec,12,HR Request,46,No,
+16,13/01/2025,Monday,15,Exec,45,FYI,49,Yes,17.6
+17,23/01/2025,Thursday,16,Manager,46,FYI,20,Yes,37.1
+18,28/01/2025,Tuesday,9,Manager,20,Reminder,51,Yes,27.7
+19,21/02/2025,Friday,12,Exec,18,Reminder,63,Yes,1.7
+20,16/02/2025,Sunday,16,Exec,43,Meeting,37,Yes,32.3
+21,31/01/2025,Friday,11,Manager,2,HR Request,65,No,
+22,23/02/2025,Sunday,10,Manager,35,Meeting,38,No,
+23,20/02/2025,Thursday,11,Manager,33,FYI,18,No,
+24,14/02/2025,Friday,9,Exec,40,FYI,59,No,
+25,02/01/2025,Thursday,9,Manager,25,Reminder,48,Yes,9.5
+26,25/02/2025,Tuesday,17,Manager,16,Reminder,66,No,
+27,01/02/2025,Saturday,9,Manager,23,Meeting,53,Yes,40.1
+28,06/01/2025,Monday,15,Ops,10,Reminder,67,Yes,12.5
+29,13/01/2025,Monday,10,Exec,15,FYI,61,Yes,27.9
+30,05/01/2025,Sunday,10,Exec,44,Reminder,48,Yes,0.4
+31,01/03/2025,Saturday,15,Manager,12,Meeting,68,Yes,12.7
+32,01/01/2025,Wednesday,17,Ops,12,Reminder,36,Yes,14.9
+33,29/01/2025,Wednesday,16,Ops,32,Meeting,16,Yes,29.8
+34,22/02/2025,Saturday,14,Ops,29,Reminder,46,Yes,0.5
+35,28/01/2025,Tuesday,12,Manager,48,HR Request,27,No,
+36,04/01/2025,Saturday,9,Manager,40,HR Request,57,No,
+37,27/02/2025,Thursday,17,Manager,27,FYI,25,No,
+38,07/02/2025,Friday,15,Ops,46,HR Request,47,Yes,1.5
+39,02/02/2025,Sunday,13,Exec,46,FYI,18,Yes,33.0
+40,21/01/2025,Tuesday,15,Ops,49,Meeting,59,Yes,4.8
+41,18/02/2025,Tuesday,12,Exec,14,FYI,63,No,
+42,27/01/2025,Monday,16,Manager,14,Reminder,45,Yes,24.7
+43,15/02/2025,Saturday,15,Manager,31,HR Request,16,No,
+44,06/01/2025,Monday,12,Ops,45,FYI,52,Yes,42.4
+45,18/01/2025,Saturday,9,Exec,49,FYI,67,Yes,27.6
+46,25/01/2025,Saturday,12,Exec,6,Reminder,68,No,
+47,18/02/2025,Tuesday,10,Ops,46,Reminder,18,Yes,22.8
+48,05/01/2025,Sunday,18,Exec,23,Reminder,32,Yes,48.0
+49,07/02/2025,Friday,18,HR,13,Meeting,31,Yes,10.4
+50,15/01/2025,Wednesday,8,Ops,22,Meeting,40,Yes,8.5
+51,17/02/2025,Monday,8,Exec,39,Meeting,25,No,
+52,11/02/2025,Tuesday,16,HR,41,Meeting,20,No,
+53,18/02/2025,Tuesday,12,HR,16,HR Request,29,Yes,0.2
+54,08/01/2025,Wednesday,12,Exec,2,FYI,66,Yes,38.9
+55,08/02/2025,Saturday,11,Manager,47,HR Request,69,No,
+56,01/01/2025,Wednesday,8,Manager,39,Meeting,61,Yes,47.5
+57,16/01/2025,Thursday,9,HR,5,Meeting,57,Yes,36.5
+58,21/02/2025,Friday,11,HR,8,FYI,55,No,
+59,04/02/2025,Tuesday,9,Ops,9,FYI,64,Yes,4.6
+60,01/03/2025,Saturday,16,Exec,5,HR Request,59,No,
+61,12/02/2025,Wednesday,8,Manager,18,FYI,15,No,
+62,22/01/2025,Wednesday,15,Manager,48,FYI,66,Yes,28.9
+63,24/02/2025,Monday,15,Manager,17,Reminder,51,No,
+64,23/02/2025,Sunday,11,Manager,23,Reminder,28,No,
+65,25/01/2025,Saturday,13,HR,8,HR Request,34,Yes,41.8
+66,22/01/2025,Wednesday,9,Manager,45,Reminder,38,Yes,31.9
+67,28/02/2025,Friday,15,Ops,23,FYI,46,No,
+68,15/01/2025,Wednesday,9,Ops,2,FYI,35,Yes,1.6
+69,12/01/2025,Sunday,14,HR,25,Reminder,30,Yes,28.6
+70,05/01/2025,Sunday,13,Ops,24,Meeting,36,Yes,21.5
+71,25/01/2025,Saturday,8,HR,26,FYI,17,No,
+72,17/02/2025,Monday,12,HR,35,Meeting,20,Yes,22.2
+73,29/01/2025,Wednesday,16,Manager,4,FYI,37,Yes,13.2
+74,18/02/2025,Tuesday,10,Ops,14,Meeting,50,Yes,1.0
+75,02/01/2025,Thursday,14,HR,16,HR Request,36,Yes,43.3
+76,03/02/2025,Monday,14,Exec,19,Meeting,43,Yes,27.6
+77,10/02/2025,Monday,9,Manager,45,Meeting,30,Yes,31.9
+78,15/02/2025,Saturday,16,Manager,38,FYI,16,Yes,32.9
+79,03/01/2025,Friday,9,Exec,45,HR Request,26,No,
+80,31/01/2025,Friday,8,Ops,19,Reminder,48,Yes,37.4
+81,24/01/2025,Friday,8,Ops,12,HR Request,37,Yes,41.6
+82,28/02/2025,Friday,9,Ops,19,Reminder,30,Yes,40.2
+83,08/02/2025,Saturday,11,Ops,1,FYI,22,Yes,5.5
+84,08/01/2025,Wednesday,8,Ops,4,HR Request,28,Yes,21.8
+85,22/02/2025,Saturday,16,Manager,23,Meeting,19,Yes,22.2
+86,06/02/2025,Thursday,16,Ops,48,FYI,70,Yes,42.4
+87,27/02/2025,Thursday,15,HR,47,Meeting,23,Yes,17.5
+88,31/01/2025,Friday,13,Ops,43,Reminder,15,Yes,37.1
+89,24/02/2025,Monday,15,Exec,34,Reminder,59,No,
+90,08/02/2025,Saturday,8,Exec,4,Meeting,32,No,
+91,05/02/2025,Wednesday,15,HR,47,Meeting,46,No,
+92,19/02/2025,Wednesday,11,Ops,44,Meeting,24,No,
+93,29/01/2025,Wednesday,13,Ops,1,Meeting,28,No,
+94,04/01/2025,Saturday,13,Exec,43,Reminder,50,Yes,13.2
+95,10/01/2025,Friday,10,HR,18,FYI,69,Yes,11.7
+96,25/01/2025,Saturday,10,HR,36,Meeting,66,Yes,6.2
+97,03/01/2025,Friday,11,Manager,7,FYI,65,Yes,18.6
+98,26/02/2025,Wednesday,12,Ops,34,Meeting,54,Yes,22.3
+99,15/02/2025,Saturday,8,Exec,21,HR Request,19,Yes,22.9
+100,04/02/2025,Tuesday,10,Exec,21,FYI,36,Yes,45.5
+101,14/01/2025,Tuesday,16,Ops,3,Reminder,47,Yes,21.8
+102,27/02/2025,Thursday,17,HR,28,FYI,36,No,
+103,04/02/2025,Tuesday,12,Ops,13,FYI,57,No,
+104,12/02/2025,Wednesday,11,HR,10,Meeting,54,Yes,26.9
+105,03/02/2025,Monday,10,HR,24,Meeting,34,Yes,38.2
+106,05/01/2025,Sunday,8,Exec,49,HR Request,26,Yes,30.1
+107,26/01/2025,Sunday,14,Ops,32,HR Request,18,Yes,3.4
+108,04/01/2025,Saturday,11,Manager,27,HR Request,28,Yes,12.2
+109,05/02/2025,Wednesday,12,Manager,17,Meeting,59,No,
+110,19/02/2025,Wednesday,17,Ops,11,Reminder,39,No,
+111,12/02/2025,Wednesday,18,Ops,13,HR Request,56,Yes,23.2
+112,03/01/2025,Friday,11,Exec,27,FYI,61,Yes,20.0
+113,21/02/2025,Friday,9,Manager,26,HR Request,56,No,
+114,22/01/2025,Wednesday,16,Manager,30,Meeting,24,Yes,14.5
+115,10/02/2025,Monday,10,HR,30,FYI,41,No,
+116,28/02/2025,Friday,18,HR,4,FYI,45,Yes,28.3
+117,18/01/2025,Saturday,8,HR,5,HR Request,20,No,
+118,05/02/2025,Wednesday,12,Exec,23,HR Request,52,No,
+119,22/01/2025,Wednesday,10,Manager,3,FYI,50,No,
+120,16/02/2025,Sunday,14,HR,7,Reminder,15,No,
+121,08/01/2025,Wednesday,12,Ops,16,Meeting,16,Yes,8.7
+122,14/02/2025,Friday,10,HR,15,Meeting,62,No,
+123,16/02/2025,Sunday,11,Manager,42,FYI,50,Yes,30.9
+124,24/02/2025,Monday,15,Ops,39,HR Request,57,Yes,47.4
+125,24/01/2025,Friday,13,HR,25,Reminder,41,Yes,35.9
+126,27/01/2025,Monday,16,HR,21,Reminder,53,Yes,28.9
+127,14/02/2025,Friday,9,HR,8,Meeting,22,No,
+128,23/02/2025,Sunday,17,HR,1,Meeting,62,Yes,47.9
+129,19/01/2025,Sunday,12,Manager,14,Reminder,16,Yes,34.9
+130,12/01/2025,Sunday,17,HR,34,HR Request,42,Yes,38.8
+131,07/01/2025,Tuesday,14,Exec,45,FYI,23,Yes,3.3
+132,01/02/2025,Saturday,14,Ops,5,HR Request,58,Yes,22.7
+133,15/02/2025,Saturday,9,Ops,39,Reminder,55,Yes,41.3
+134,04/02/2025,Tuesday,11,Exec,17,Meeting,65,Yes,9.1
+135,15/02/2025,Saturday,15,Exec,49,HR Request,56,No,
+136,27/02/2025,Thursday,9,Ops,47,Reminder,20,Yes,11.3
+137,04/01/2025,Saturday,15,Exec,20,Reminder,64,No,
+138,01/02/2025,Saturday,8,Ops,35,Reminder,38,Yes,36.6
+139,19/02/2025,Wednesday,18,Exec,23,Meeting,22,Yes,45.9
+140,10/01/2025,Friday,13,Ops,50,Reminder,45,Yes,2.1
+141,15/01/2025,Wednesday,8,Ops,20,HR Request,27,No,
+142,15/01/2025,Wednesday,9,Exec,49,HR Request,48,Yes,17.7
+143,06/02/2025,Thursday,9,HR,7,Meeting,66,Yes,26.3
+144,03/02/2025,Monday,17,HR,35,Reminder,35,Yes,34.5
+145,26/01/2025,Sunday,18,Ops,42,FYI,23,Yes,38.2
+146,08/02/2025,Saturday,9,Manager,45,Reminder,61,Yes,28.6
+147,23/02/2025,Sunday,12,Exec,23,Reminder,24,No,
+148,18/01/2025,Saturday,11,Manager,22,Meeting,30,Yes,31.3
+149,09/01/2025,Thursday,9,Exec,17,Reminder,38,Yes,39.4
+150,15/02/2025,Saturday,14,Ops,21,Reminder,17,Yes,8.4
+151,09/01/2025,Thursday,18,HR,5,HR Request,65,Yes,11.9
+152,20/02/2025,Thursday,15,Exec,34,Reminder,29,No,
+153,14/01/2025,Tuesday,13,Exec,19,Meeting,42,No,
+154,10/01/2025,Friday,14,Manager,9,Meeting,15,Yes,0.6
+155,25/02/2025,Tuesday,17,Ops,25,Reminder,23,Yes,12.1
+156,13/02/2025,Thursday,17,Ops,49,FYI,46,No,
+157,01/02/2025,Saturday,16,Exec,31,HR Request,40,Yes,28.7
+158,02/02/2025,Sunday,9,HR,15,HR Request,16,Yes,43.4
+159,22/02/2025,Saturday,13,Manager,15,FYI,24,No,
+160,10/02/2025,Monday,10,HR,21,Reminder,56,Yes,34.4
+161,08/02/2025,Saturday,10,HR,41,Meeting,60,No,
+162,13/01/2025,Monday,10,Ops,13,FYI,66,Yes,14.4
+163,08/01/2025,Wednesday,15,Manager,42,FYI,46,Yes,22.5
+164,04/02/2025,Tuesday,17,Exec,10,Meeting,30,No,
+165,19/01/2025,Sunday,8,Ops,1,HR Request,53,No,
+166,13/01/2025,Monday,13,HR,47,FYI,67,Yes,41.1
+167,25/02/2025,Tuesday,14,HR,42,Meeting,54,No,
+168,16/02/2025,Sunday,16,Manager,14,HR Request,69,Yes,8.3
+169,20/01/2025,Monday,18,Exec,4,HR Request,54,Yes,33.9
+170,22/01/2025,Wednesday,18,HR,38,FYI,65,Yes,27.5
+171,02/01/2025,Thursday,12,HR,36,HR Request,40,Yes,40.4
+172,29/01/2025,Wednesday,16,Manager,31,FYI,53,Yes,16.8
+173,02/01/2025,Thursday,11,Exec,14,HR Request,35,Yes,32.9
+174,24/01/2025,Friday,13,Exec,39,Reminder,15,Yes,46.8
+175,21/01/2025,Tuesday,14,Manager,18,HR Request,38,Yes,10.2
+176,03/01/2025,Friday,14,HR,1,Reminder,54,No,
+177,28/02/2025,Friday,9,HR,23,HR Request,15,Yes,29.4
+178,06/02/2025,Thursday,14,Exec,37,Meeting,23,Yes,45.5
+179,25/02/2025,Tuesday,15,Manager,7,FYI,33,Yes,6.7
+180,29/01/2025,Wednesday,8,Ops,25,Meeting,37,No,
+181,16/01/2025,Thursday,14,Exec,16,FYI,66,No,
+182,10/01/2025,Friday,18,Manager,16,FYI,57,No,
+183,04/01/2025,Saturday,15,Exec,45,FYI,68,No,
+184,07/01/2025,Tuesday,12,HR,36,Reminder,65,Yes,14.2
+185,06/02/2025,Thursday,17,Manager,26,HR Request,35,No,
+186,16/02/2025,Sunday,18,Exec,48,Meeting,60,Yes,4.7
+187,07/01/2025,Tuesday,15,HR,43,Meeting,26,Yes,24.2
+188,08/02/2025,Saturday,13,Ops,3,Meeting,61,No,
+189,30/01/2025,Thursday,14,Exec,29,Reminder,26,No,
+190,28/02/2025,Friday,17,HR,5,Reminder,36,Yes,39.8
+191,05/02/2025,Wednesday,15,Ops,38,HR Request,32,Yes,39.8
+192,04/01/2025,Saturday,14,HR,45,FYI,33,Yes,43.8
+193,31/01/2025,Friday,8,HR,24,Meeting,23,No,
+194,12/01/2025,Sunday,14,Exec,42,FYI,47,No,
+195,14/01/2025,Tuesday,9,Ops,23,Meeting,46,No,
+196,28/02/2025,Friday,18,HR,40,Reminder,41,Yes,9.9
+197,27/01/2025,Monday,8,HR,4,HR Request,49,Yes,1.2
+198,08/02/2025,Saturday,13,Exec,30,FYI,52,Yes,25.5
+199,12/02/2025,Wednesday,16,Manager,28,FYI,42,No,
+200,11/02/2025,Tuesday,12,Exec,4,FYI,56,Yes,17.7
+201,20/01/2025,Monday,15,HR,38,FYI,53,Yes,2.3
+202,01/01/2025,Wednesday,14,Ops,30,HR Request,35,No,
+203,21/01/2025,Tuesday,14,Exec,34,HR Request,50,Yes,22.6
+204,24/01/2025,Friday,8,HR,33,HR Request,30,Yes,36.1
+205,05/02/2025,Wednesday,14,Exec,28,Meeting,32,No,
+206,15/02/2025,Saturday,13,Exec,31,FYI,35,No,
+207,13/01/2025,Monday,18,HR,43,HR Request,55,No,
+208,26/01/2025,Sunday,10,Exec,43,FYI,64,No,
+209,24/01/2025,Friday,9,Ops,38,Reminder,60,Yes,38.4
+210,21/02/2025,Friday,9,Manager,40,FYI,66,No,
+211,10/02/2025,Monday,13,Exec,45,Meeting,61,No,
+212,04/02/2025,Tuesday,10,Manager,26,FYI,18,Yes,46.9
+213,10/02/2025,Monday,18,Ops,33,FYI,30,No,
+214,04/02/2025,Tuesday,14,HR,42,HR Request,46,No,
+215,31/01/2025,Friday,15,Ops,34,Reminder,69,No,
+216,09/01/2025,Thursday,14,Exec,46,Reminder,54,Yes,29.7
+217,15/02/2025,Saturday,8,Ops,10,HR Request,37,Yes,19.7
+218,26/02/2025,Wednesday,14,Exec,5,Meeting,43,Yes,2.7
+219,05/02/2025,Wednesday,15,Exec,35,Reminder,40,Yes,43.5
+220,22/01/2025,Wednesday,13,Manager,25,Meeting,51,Yes,19.2
+221,04/01/2025,Saturday,18,Manager,21,FYI,48,Yes,11.7
+222,23/01/2025,Thursday,13,HR,47,HR Request,17,Yes,22.0
+223,24/01/2025,Friday,12,Ops,14,Meeting,19,Yes,22.9
+224,20/02/2025,Thursday,18,Exec,8,Reminder,42,Yes,19.6
+225,22/01/2025,Wednesday,18,Ops,47,Reminder,20,Yes,17.2
+226,27/02/2025,Thursday,8,HR,48,HR Request,33,Yes,25.8
+227,22/01/2025,Wednesday,16,Manager,31,FYI,23,No,
+228,29/01/2025,Wednesday,13,HR,29,Meeting,48,Yes,15.2
+229,05/01/2025,Sunday,14,Manager,16,Reminder,45,No,
+230,16/02/2025,Sunday,14,HR,8,HR Request,24,Yes,29.8
+231,17/01/2025,Friday,17,Exec,47,FYI,70,Yes,15.7
+232,09/02/2025,Sunday,17,HR,10,Reminder,33,No,
+233,18/02/2025,Tuesday,10,Ops,50,Meeting,16,Yes,21.7
+234,11/01/2025,Saturday,16,HR,34,Reminder,36,Yes,14.3
+235,15/02/2025,Saturday,16,Exec,12,Meeting,53,Yes,34.0
+236,03/01/2025,Friday,14,Ops,41,Reminder,60,Yes,19.5
+237,05/02/2025,Wednesday,12,Manager,27,Reminder,48,Yes,42.7
+238,06/02/2025,Thursday,9,Exec,30,FYI,63,Yes,31.9
+239,05/01/2025,Sunday,16,Manager,30,HR Request,65,Yes,31.5
+240,01/03/2025,Saturday,12,Exec,49,Reminder,39,Yes,35.0
+241,01/01/2025,Wednesday,14,Manager,40,FYI,19,Yes,6.5
+242,31/01/2025,Friday,15,Exec,33,HR Request,18,Yes,21.8
+243,29/01/2025,Wednesday,12,Ops,8,Reminder,65,Yes,36.9
+244,28/01/2025,Tuesday,13,Exec,16,Meeting,59,Yes,5.5
+245,03/02/2025,Monday,8,Exec,22,Meeting,39,Yes,29.0
+246,20/02/2025,Thursday,8,Exec,28,HR Request,44,Yes,19.9
+247,12/02/2025,Wednesday,10,Exec,8,HR Request,45,Yes,16.2
+248,20/01/2025,Monday,12,HR,39,FYI,57,Yes,45.4
+249,06/01/2025,Monday,17,HR,12,Meeting,39,No,
+250,18/02/2025,Tuesday,16,Manager,44,Meeting,43,Yes,29.2
+251,08/02/2025,Saturday,13,Exec,22,FYI,61,Yes,9.3
+252,09/02/2025,Sunday,11,Exec,28,Meeting,56,Yes,34.4
+253,13/02/2025,Thursday,15,Exec,7,Meeting,44,Yes,19.1
+254,07/01/2025,Tuesday,15,Manager,38,FYI,39,No,
+255,03/01/2025,Friday,15,Manager,14,HR Request,24,Yes,24.4
+256,26/01/2025,Sunday,14,Exec,23,Reminder,45,No,
+257,07/01/2025,Tuesday,14,HR,50,FYI,27,Yes,46.7
+258,02/01/2025,Thursday,18,Exec,25,HR Request,50,Yes,14.0
+259,26/01/2025,Sunday,14,Ops,8,FYI,65,Yes,2.3
+260,08/02/2025,Saturday,16,Manager,12,FYI,70,Yes,45.2
+261,08/02/2025,Saturday,8,Ops,48,Reminder,17,Yes,4.2
+262,01/02/2025,Saturday,10,Manager,10,FYI,67,Yes,36.0
+263,06/02/2025,Thursday,16,Manager,3,Reminder,22,Yes,37.1
+264,16/02/2025,Sunday,16,Exec,9,HR Request,55,Yes,32.0
+265,06/02/2025,Thursday,8,Manager,2,HR Request,44,Yes,33.1
+266,19/01/2025,Sunday,9,Ops,35,Meeting,25,Yes,16.1
+267,29/01/2025,Wednesday,17,Ops,30,HR Request,62,No,
+268,22/02/2025,Saturday,8,Exec,1,Meeting,39,No,
+269,01/01/2025,Wednesday,9,Manager,43,Reminder,29,No,
+270,01/01/2025,Wednesday,10,HR,14,FYI,64,Yes,8.6
+271,07/01/2025,Tuesday,10,Exec,17,FYI,65,Yes,25.4
+272,13/01/2025,Monday,14,Ops,31,HR Request,29,Yes,30.2
+273,29/01/2025,Wednesday,14,Exec,3,FYI,65,Yes,7.4
+274,20/01/2025,Monday,11,HR,34,FYI,36,Yes,24.5
+275,05/01/2025,Sunday,18,HR,3,FYI,28,No,
+276,24/01/2025,Friday,12,Exec,32,Meeting,64,Yes,0.3
+277,19/02/2025,Wednesday,9,Manager,10,Reminder,22,No,
+278,08/02/2025,Saturday,9,Ops,28,Meeting,50,Yes,4.9
+279,23/01/2025,Thursday,17,Exec,19,Reminder,41,No,
+280,01/01/2025,Wednesday,11,HR,31,Meeting,59,Yes,2.6
+281,14/02/2025,Friday,14,HR,48,HR Request,33,No,
+282,03/02/2025,Monday,11,Exec,48,HR Request,70,Yes,8.1
+283,18/02/2025,Tuesday,8,Manager,50,Reminder,65,Yes,31.8
+284,25/01/2025,Saturday,17,HR,23,Reminder,31,Yes,29.6
+285,13/02/2025,Thursday,18,Manager,17,FYI,27,No,
+286,30/01/2025,Thursday,12,HR,23,Reminder,46,No,
+287,23/01/2025,Thursday,9,HR,42,HR Request,23,Yes,1.1
+288,07/01/2025,Tuesday,14,HR,22,Reminder,34,Yes,20.2
+289,08/01/2025,Wednesday,12,HR,32,FYI,37,Yes,27.1
+290,10/01/2025,Friday,8,Exec,39,Meeting,51,No,
+291,16/01/2025,Thursday,18,HR,2,FYI,57,No,
+292,21/02/2025,Friday,9,Ops,6,Reminder,51,No,
+293,15/02/2025,Saturday,18,HR,33,HR Request,64,No,
+294,21/01/2025,Tuesday,15,Ops,29,Meeting,24,No,
+295,02/01/2025,Thursday,8,Manager,38,FYI,53,Yes,26.0
+296,17/02/2025,Monday,18,HR,46,Reminder,57,No,
+297,15/02/2025,Saturday,18,Exec,34,Reminder,70,No,
+298,31/01/2025,Friday,18,HR,23,Reminder,70,Yes,6.8
+299,03/01/2025,Friday,12,Ops,5,Reminder,15,No,
+300,20/01/2025,Monday,18,Manager,46,FYI,60,No,
+301,08/01/2025,Wednesday,11,Exec,27,Reminder,68,Yes,5.8
+302,25/01/2025,Saturday,15,Manager,50,Reminder,29,Yes,43.8
+303,11/01/2025,Saturday,9,Ops,46,FYI,63,Yes,23.9
+304,30/01/2025,Thursday,17,HR,12,FYI,47,No,
+305,26/01/2025,Sunday,9,Ops,25,Meeting,67,Yes,11.7
+306,14/02/2025,Friday,15,HR,10,FYI,16,No,
+307,04/01/2025,Saturday,15,HR,46,HR Request,15,No,
+308,12/02/2025,Wednesday,10,Manager,24,HR Request,63,Yes,41.7
+309,16/01/2025,Thursday,8,Ops,10,FYI,37,Yes,10.8
+310,07/01/2025,Tuesday,11,Manager,7,FYI,61,Yes,6.8
+311,24/01/2025,Friday,16,Exec,26,FYI,15,Yes,18.4
+312,28/01/2025,Tuesday,18,Manager,7,FYI,25,Yes,24.1
+313,05/02/2025,Wednesday,14,Exec,5,Reminder,35,Yes,35.3
+314,17/02/2025,Monday,13,HR,37,HR Request,70,Yes,7.4
+315,28/02/2025,Friday,8,Ops,49,Meeting,27,No,
+316,02/01/2025,Thursday,17,Exec,23,HR Request,61,Yes,32.2
+317,16/01/2025,Thursday,11,Ops,34,Reminder,30,Yes,37.2
+318,30/01/2025,Thursday,9,Manager,28,HR Request,48,Yes,18.5
+319,13/01/2025,Monday,14,Ops,10,Reminder,65,Yes,39.4
+320,31/01/2025,Friday,8,Exec,42,FYI,22,Yes,46.8
+321,02/01/2025,Thursday,13,Ops,43,FYI,69,Yes,44.6
+322,15/01/2025,Wednesday,14,Ops,38,Meeting,64,Yes,35.3
+323,08/01/2025,Wednesday,13,Manager,49,Meeting,29,No,
+324,03/02/2025,Monday,8,HR,23,FYI,19,Yes,21.3
+325,15/01/2025,Wednesday,15,Ops,21,Meeting,20,Yes,13.6
+326,18/02/2025,Tuesday,15,HR,4,FYI,59,No,
+327,27/01/2025,Monday,15,Exec,3,Meeting,70,Yes,44.3
+328,01/03/2025,Saturday,17,Ops,6,Reminder,45,Yes,36.4
+329,24/02/2025,Monday,13,Exec,9,Meeting,35,Yes,10.2
+330,11/01/2025,Saturday,17,Exec,7,FYI,65,Yes,38.4
+331,14/01/2025,Tuesday,10,HR,9,HR Request,39,Yes,4.2
+332,22/01/2025,Wednesday,12,Ops,8,Meeting,27,Yes,47.7
+333,12/02/2025,Wednesday,17,HR,8,FYI,36,No,
+334,09/02/2025,Sunday,9,Exec,13,Meeting,60,No,
+335,03/01/2025,Friday,16,Manager,43,Reminder,19,Yes,17.3
+336,29/01/2025,Wednesday,15,Ops,30,Reminder,32,Yes,38.6
+337,10/01/2025,Friday,12,Manager,22,Reminder,40,No,
+338,07/01/2025,Tuesday,15,Exec,24,HR Request,37,Yes,32.7
+339,09/02/2025,Sunday,16,Manager,1,FYI,62,Yes,32.1
+340,12/01/2025,Sunday,9,Manager,37,HR Request,19,Yes,32.3
+341,25/02/2025,Tuesday,16,Manager,12,Meeting,16,No,
+342,16/01/2025,Thursday,16,Manager,42,HR Request,19,Yes,32.9
+343,19/01/2025,Sunday,9,Ops,20,HR Request,51,No,
+344,10/01/2025,Friday,14,Ops,39,Meeting,45,No,
+345,07/01/2025,Tuesday,8,Exec,21,FYI,38,No,
+346,13/01/2025,Monday,14,Exec,17,HR Request,23,Yes,5.4
+347,30/01/2025,Thursday,9,HR,7,Meeting,56,Yes,46.6
+348,02/01/2025,Thursday,17,Manager,20,Reminder,26,Yes,12.5
+349,10/01/2025,Friday,16,Manager,3,Reminder,51,No,
+350,09/01/2025,Thursday,16,HR,43,HR Request,33,Yes,11.6
+351,13/01/2025,Monday,9,Ops,13,Reminder,35,Yes,13.8
+352,06/01/2025,Monday,11,HR,42,Meeting,59,No,
+353,06/02/2025,Thursday,12,HR,31,FYI,32,No,
+354,12/02/2025,Wednesday,18,Exec,46,Meeting,65,Yes,0.9
+355,13/02/2025,Thursday,12,Manager,19,FYI,36,No,
+356,27/02/2025,Thursday,10,HR,32,HR Request,56,No,
+357,23/02/2025,Sunday,15,Ops,1,Meeting,34,No,
+358,13/02/2025,Thursday,14,HR,7,Meeting,54,No,
+359,12/01/2025,Sunday,9,Ops,10,HR Request,45,Yes,12.0
+360,16/01/2025,Thursday,10,HR,40,HR Request,26,Yes,12.5
+361,28/02/2025,Friday,14,Exec,39,FYI,29,No,
+362,25/02/2025,Tuesday,8,Exec,48,FYI,17,No,
+363,24/02/2025,Monday,14,HR,28,Reminder,27,Yes,43.6
+364,01/03/2025,Saturday,17,Manager,29,Reminder,68,Yes,27.9
+365,17/02/2025,Monday,11,HR,32,Reminder,58,No,
+366,28/02/2025,Friday,16,HR,17,Reminder,68,No,
+367,10/01/2025,Friday,9,Exec,19,Reminder,20,Yes,22.4
+368,20/02/2025,Thursday,11,Ops,4,Meeting,35,No,
+369,13/02/2025,Thursday,15,Exec,30,HR Request,40,Yes,46.5
+370,23/01/2025,Thursday,14,HR,29,FYI,69,Yes,12.0
+371,03/01/2025,Friday,16,Exec,27,FYI,19,Yes,44.6
+372,07/01/2025,Tuesday,15,HR,10,FYI,56,Yes,37.8
+373,29/01/2025,Wednesday,16,HR,3,FYI,69,Yes,30.5
+374,03/02/2025,Monday,10,Ops,48,Meeting,53,Yes,10.6
+375,26/02/2025,Wednesday,17,Exec,50,Meeting,46,No,
+376,03/01/2025,Friday,10,Manager,23,FYI,19,Yes,18.6
+377,22/02/2025,Saturday,18,Manager,22,Reminder,22,No,
+378,13/02/2025,Thursday,16,Ops,13,FYI,55,No,
+379,22/02/2025,Saturday,18,HR,43,HR Request,15,Yes,26.7
+380,20/02/2025,Thursday,14,Ops,15,HR Request,21,No,
+381,22/01/2025,Wednesday,17,Exec,23,HR Request,19,No,
+382,14/01/2025,Tuesday,15,Exec,15,FYI,16,Yes,37.5
+383,18/02/2025,Tuesday,14,Ops,3,Reminder,27,Yes,15.1
+384,03/01/2025,Friday,13,HR,17,FYI,68,No,
+385,24/02/2025,Monday,14,Ops,24,FYI,49,No,
+386,28/02/2025,Friday,8,HR,15,Reminder,70,Yes,5.5
+387,26/02/2025,Wednesday,10,Ops,17,FYI,51,Yes,30.5
+388,05/02/2025,Wednesday,18,Manager,29,HR Request,64,No,
+389,28/02/2025,Friday,14,Exec,40,HR Request,53,No,
+390,01/01/2025,Wednesday,8,Ops,8,Reminder,69,Yes,26.9
+391,17/01/2025,Friday,11,HR,45,HR Request,67,No,
+392,12/02/2025,Wednesday,13,Exec,29,HR Request,34,No,
+393,10/01/2025,Friday,17,Manager,1,Reminder,31,Yes,35.7
+394,15/01/2025,Wednesday,10,Ops,23,Meeting,33,No,
+395,24/01/2025,Friday,12,Manager,49,Meeting,59,Yes,39.5
+396,06/01/2025,Monday,12,HR,20,Reminder,55,Yes,46.0
+397,20/01/2025,Monday,13,Exec,1,Reminder,28,Yes,21.5
+398,25/02/2025,Tuesday,8,Exec,16,HR Request,62,Yes,45.7
+399,25/02/2025,Tuesday,9,Ops,1,HR Request,26,No,
+400,01/01/2025,Wednesday,8,Exec,25,Reminder,55,Yes,32.0
+401,27/01/2025,Monday,11,Ops,43,HR Request,21,No,
+402,05/01/2025,Sunday,18,Manager,23,Reminder,60,Yes,21.8
+403,27/01/2025,Monday,16,Exec,24,Meeting,55,Yes,33.9
+404,16/01/2025,Thursday,17,HR,33,HR Request,23,No,
+405,14/02/2025,Friday,9,Ops,23,Meeting,42,Yes,29.7
+406,04/02/2025,Tuesday,17,Ops,50,Meeting,48,Yes,0.3
+407,27/01/2025,Monday,14,Manager,6,FYI,33,Yes,20.0
+408,19/01/2025,Sunday,13,Manager,40,Reminder,41,Yes,41.1
+409,13/01/2025,Monday,14,Exec,5,Reminder,63,Yes,41.8
+410,01/01/2025,Wednesday,10,HR,4,Meeting,59,Yes,19.8
+411,06/02/2025,Thursday,8,Exec,47,Reminder,44,Yes,9.5
+412,28/01/2025,Tuesday,15,HR,41,Reminder,35,No,
+413,12/01/2025,Sunday,11,Ops,25,FYI,39,No,
+414,05/02/2025,Wednesday,9,HR,6,FYI,22,No,
+415,21/01/2025,Tuesday,18,HR,42,Meeting,51,No,
+416,06/02/2025,Thursday,11,Exec,44,Meeting,32,Yes,46.7
+417,02/01/2025,Thursday,10,HR,1,HR Request,21,Yes,14.3
+418,23/01/2025,Thursday,13,Ops,9,Meeting,52,Yes,45.3
+419,17/01/2025,Friday,18,Manager,3,HR Request,69,No,
+420,22/01/2025,Wednesday,9,Ops,43,HR Request,31,No,
+421,13/01/2025,Monday,18,Exec,48,HR Request,22,No,
+422,02/01/2025,Thursday,17,HR,5,HR Request,48,Yes,44.9
+423,20/01/2025,Monday,14,Exec,45,FYI,33,No,
+424,12/01/2025,Sunday,9,Manager,46,HR Request,41,No,
+425,04/02/2025,Tuesday,13,Ops,38,HR Request,62,Yes,40.0
+426,24/01/2025,Friday,13,HR,39,HR Request,15,Yes,44.3
+427,17/01/2025,Friday,9,Ops,44,Meeting,62,No,
+428,25/01/2025,Saturday,13,Manager,8,HR Request,35,Yes,34.1
+429,31/01/2025,Friday,18,Manager,36,FYI,20,Yes,38.9
+430,11/02/2025,Tuesday,16,Manager,1,FYI,66,Yes,9.8
+431,29/01/2025,Wednesday,8,Ops,5,Meeting,39,No,
+432,26/02/2025,Wednesday,8,Exec,5,FYI,21,No,
+433,01/03/2025,Saturday,14,Exec,45,HR Request,44,Yes,35.0
+434,08/01/2025,Wednesday,17,Exec,27,HR Request,15,Yes,23.7
+435,07/01/2025,Tuesday,12,HR,22,HR Request,60,Yes,1.0
+436,22/02/2025,Saturday,14,Manager,41,Reminder,66,Yes,34.1
+437,25/02/2025,Tuesday,12,HR,15,Reminder,70,Yes,22.7
+438,27/01/2025,Monday,16,Ops,34,HR Request,33,Yes,27.3
+439,27/01/2025,Monday,11,Exec,33,Meeting,46,Yes,47.9
+440,29/01/2025,Wednesday,14,Manager,12,FYI,18,No,
+441,12/02/2025,Wednesday,16,Manager,36,FYI,56,No,
+442,01/03/2025,Saturday,13,Exec,48,Reminder,26,Yes,42.0
+443,28/02/2025,Friday,10,HR,31,FYI,47,Yes,41.8
+444,01/01/2025,Wednesday,16,Ops,39,Reminder,54,Yes,13.6
+445,27/01/2025,Monday,17,Manager,32,Meeting,62,Yes,34.4
+446,07/02/2025,Friday,16,HR,42,FYI,38,Yes,41.0
+447,21/01/2025,Tuesday,12,Ops,1,HR Request,29,No,
+448,11/01/2025,Saturday,18,Exec,4,Reminder,38,No,
+449,05/02/2025,Wednesday,11,Manager,44,Reminder,35,Yes,16.7
+450,14/01/2025,Tuesday,12,Exec,17,Meeting,24,Yes,12.1
+451,31/01/2025,Friday,14,HR,22,HR Request,42,No,
+452,09/02/2025,Sunday,10,Exec,12,HR Request,26,Yes,29.5
+453,18/01/2025,Saturday,15,Ops,3,Reminder,31,Yes,3.2
+454,22/02/2025,Saturday,12,Manager,38,FYI,31,No,
+455,01/03/2025,Saturday,15,Manager,49,HR Request,19,Yes,32.3
+456,02/02/2025,Sunday,9,Ops,21,FYI,31,No,
+457,14/01/2025,Tuesday,14,HR,28,FYI,63,No,
+458,29/01/2025,Wednesday,18,Exec,42,Reminder,52,Yes,29.0
+459,25/01/2025,Saturday,10,Exec,28,HR Request,46,No,
+460,20/01/2025,Monday,8,Ops,27,Meeting,48,No,
+461,05/01/2025,Sunday,8,Manager,12,Reminder,29,No,
+462,09/01/2025,Thursday,8,HR,46,FYI,28,Yes,25.4
+463,01/02/2025,Saturday,9,Exec,15,HR Request,21,Yes,23.6
+464,30/01/2025,Thursday,13,Manager,5,Meeting,68,Yes,29.2
+465,10/02/2025,Monday,15,Ops,35,Meeting,21,No,
+466,26/01/2025,Sunday,15,Manager,39,HR Request,18,Yes,26.3
+467,23/02/2025,Sunday,12,HR,20,HR Request,57,Yes,12.4
+468,12/02/2025,Wednesday,14,Exec,37,FYI,56,No,
+469,22/02/2025,Saturday,13,Exec,30,Reminder,32,Yes,27.7
+470,25/01/2025,Saturday,16,HR,22,HR Request,44,Yes,42.4
+471,01/02/2025,Saturday,12,Manager,12,Meeting,61,No,
+472,28/01/2025,Tuesday,8,Exec,39,Reminder,54,No,
+473,21/02/2025,Friday,11,Manager,15,FYI,32,Yes,5.4
+474,04/01/2025,Saturday,10,HR,29,Reminder,68,Yes,32.3
+475,21/02/2025,Friday,16,Ops,1,Meeting,53,Yes,4.3
+476,01/03/2025,Saturday,10,HR,20,HR Request,70,Yes,39.5
+477,06/02/2025,Thursday,11,Ops,34,HR Request,47,Yes,7.8
+478,01/01/2025,Wednesday,16,Manager,35,Meeting,39,No,
+479,06/01/2025,Monday,10,Exec,45,HR Request,27,No,
+480,16/01/2025,Thursday,13,Exec,4,FYI,62,Yes,40.0
+481,08/02/2025,Saturday,9,HR,40,FYI,31,No,
+482,15/01/2025,Wednesday,13,Ops,25,Reminder,41,Yes,3.2
+483,14/02/2025,Friday,15,HR,22,Meeting,27,Yes,7.3
+484,03/02/2025,Monday,16,Exec,48,Reminder,50,Yes,33.6
+485,21/02/2025,Friday,13,HR,46,Reminder,22,Yes,12.0
+486,06/02/2025,Thursday,13,Manager,20,Reminder,19,Yes,1.7
+487,18/01/2025,Saturday,8,Ops,26,Meeting,58,No,
+488,18/02/2025,Tuesday,16,Manager,7,FYI,48,No,
+489,05/01/2025,Sunday,14,Ops,47,HR Request,25,Yes,3.1
+490,19/02/2025,Wednesday,10,Manager,5,Meeting,62,Yes,28.0
+491,29/01/2025,Wednesday,16,Manager,19,FYI,62,No,
+492,21/01/2025,Tuesday,13,Exec,38,Reminder,60,No,
+493,04/02/2025,Tuesday,8,Exec,47,Meeting,41,No,
+494,13/02/2025,Thursday,17,HR,21,HR Request,48,No,
+495,28/02/2025,Friday,15,HR,26,Reminder,62,Yes,46.0
+496,23/01/2025,Thursday,18,HR,50,Reminder,17,No,
+497,03/01/2025,Friday,18,Ops,4,Meeting,31,No,
+498,03/01/2025,Friday,12,Manager,24,Reminder,51,No,
+499,27/01/2025,Monday,16,Ops,20,FYI,56,No,
+500,18/02/2025,Tuesday,11,Exec,23,FYI,59,Yes,1.2
+501,23/02/2025,Sunday,9,Manager,50,FYI,55,Yes,38.9
+502,01/02/2025,Saturday,12,Manager,33,HR Request,17,Yes,0.0
+503,01/03/2025,Saturday,18,Ops,31,FYI,37,Yes,1.1
+504,09/01/2025,Thursday,17,Ops,14,HR Request,26,No,
+505,25/01/2025,Saturday,12,Exec,20,HR Request,39,Yes,15.2
+506,06/01/2025,Monday,14,Exec,1,Reminder,63,No,
+507,06/01/2025,Monday,11,Exec,16,Reminder,25,No,
+508,19/01/2025,Sunday,11,Ops,14,HR Request,31,Yes,13.9
+509,12/01/2025,Sunday,13,Manager,17,FYI,63,Yes,13.2
+510,11/01/2025,Saturday,16,Manager,36,Meeting,28,Yes,26.5
+511,08/02/2025,Saturday,17,Manager,27,Meeting,15,No,
+512,28/02/2025,Friday,11,HR,23,HR Request,36,Yes,13.3
+513,20/02/2025,Thursday,12,Ops,49,Reminder,45,Yes,32.7
+514,11/01/2025,Saturday,12,Exec,38,Meeting,48,Yes,18.3
+515,15/01/2025,Wednesday,10,HR,1,Reminder,15,Yes,42.7
+516,24/01/2025,Friday,17,Manager,12,FYI,26,Yes,9.1
+517,19/01/2025,Sunday,10,Manager,45,FYI,50,Yes,41.6
+518,09/02/2025,Sunday,16,HR,9,HR Request,70,Yes,23.0
+519,29/01/2025,Wednesday,9,Ops,27,Meeting,42,No,
+520,27/01/2025,Monday,16,HR,11,Reminder,45,Yes,6.7
+521,20/02/2025,Thursday,10,HR,50,HR Request,23,Yes,31.2
+522,31/01/2025,Friday,15,HR,13,Meeting,42,Yes,26.3
+523,10/02/2025,Monday,14,HR,21,Reminder,65,No,
+524,02/02/2025,Sunday,11,HR,37,Meeting,62,Yes,34.6
+525,16/01/2025,Thursday,9,Exec,5,Meeting,56,No,
+526,04/02/2025,Tuesday,18,Manager,11,HR Request,29,Yes,30.4
+527,03/01/2025,Friday,14,Exec,29,FYI,42,Yes,17.6
+528,25/01/2025,Saturday,12,Exec,49,HR Request,57,Yes,33.9
+529,14/01/2025,Tuesday,11,Manager,22,FYI,25,No,
+530,29/01/2025,Wednesday,14,HR,47,FYI,40,No,
+531,26/01/2025,Sunday,13,Manager,46,FYI,29,Yes,30.0
+532,12/01/2025,Sunday,17,Ops,23,FYI,22,No,
+533,04/01/2025,Saturday,14,Ops,33,HR Request,34,Yes,9.6
+534,07/01/2025,Tuesday,11,Exec,26,FYI,30,Yes,25.0
+535,16/02/2025,Sunday,16,HR,6,Reminder,29,Yes,43.2
+536,03/01/2025,Friday,17,Ops,2,FYI,54,Yes,30.8
+537,08/02/2025,Saturday,14,Exec,37,FYI,16,No,
+538,03/02/2025,Monday,14,Manager,15,FYI,18,Yes,14.6
+539,24/01/2025,Friday,18,Ops,10,Reminder,44,Yes,7.9
+540,21/02/2025,Friday,17,Manager,6,Meeting,70,Yes,39.4
+541,06/02/2025,Thursday,8,HR,3,Meeting,56,Yes,30.6
+542,06/01/2025,Monday,15,Exec,46,HR Request,41,Yes,31.2
+543,05/02/2025,Wednesday,15,Exec,7,FYI,46,No,
+544,07/01/2025,Tuesday,10,HR,24,HR Request,23,Yes,46.7
+545,17/02/2025,Monday,13,Manager,50,Reminder,45,Yes,6.9
+546,08/02/2025,Saturday,18,Ops,3,HR Request,36,No,
+547,27/01/2025,Monday,11,HR,3,HR Request,34,No,
+548,01/01/2025,Wednesday,15,HR,3,HR Request,32,No,
+549,03/02/2025,Monday,18,Exec,30,Reminder,22,No,
+550,08/01/2025,Wednesday,14,Manager,34,Reminder,39,Yes,10.4
+551,28/02/2025,Friday,12,HR,4,HR Request,52,No,
+552,30/01/2025,Thursday,15,Ops,14,Meeting,27,Yes,47.8
+553,26/02/2025,Wednesday,10,Manager,39,Meeting,63,No,
+554,10/01/2025,Friday,14,Manager,50,FYI,28,No,
+555,07/01/2025,Tuesday,18,Exec,5,Reminder,29,Yes,38.8
+556,04/01/2025,Saturday,15,Ops,36,FYI,66,Yes,34.6
+557,13/02/2025,Thursday,12,Ops,44,Meeting,32,No,
+558,18/01/2025,Saturday,9,Ops,15,HR Request,37,Yes,25.9
+559,01/03/2025,Saturday,14,HR,29,HR Request,34,Yes,11.3
+560,01/01/2025,Wednesday,18,HR,46,Reminder,53,Yes,46.9
+561,01/01/2025,Wednesday,9,Manager,35,HR Request,40,No,
+562,01/03/2025,Saturday,18,Exec,29,Reminder,55,Yes,16.6
+563,22/02/2025,Saturday,9,HR,50,FYI,53,Yes,18.7
+564,08/02/2025,Saturday,11,Exec,4,HR Request,44,No,
+565,03/02/2025,Monday,15,Exec,7,Reminder,44,Yes,44.4
+566,01/01/2025,Wednesday,12,Ops,38,Reminder,46,Yes,21.5
+567,28/02/2025,Friday,12,Exec,18,Meeting,66,No,
+568,22/02/2025,Saturday,12,Manager,24,FYI,35,No,
+569,19/02/2025,Wednesday,18,Manager,45,Reminder,19,Yes,41.0
+570,09/02/2025,Sunday,17,HR,42,FYI,60,Yes,30.2
+571,01/02/2025,Saturday,14,HR,6,Meeting,65,No,
+572,04/01/2025,Saturday,8,HR,2,Reminder,70,No,
+573,15/01/2025,Wednesday,9,HR,48,FYI,29,Yes,7.6
+574,21/01/2025,Tuesday,17,HR,12,Reminder,21,Yes,21.7
+575,03/02/2025,Monday,11,Manager,27,Meeting,67,No,
+576,05/01/2025,Sunday,9,Manager,13,HR Request,39,No,
+577,13/02/2025,Thursday,17,Ops,16,HR Request,22,Yes,23.2
+578,09/01/2025,Thursday,15,Ops,47,HR Request,30,Yes,13.4
+579,11/02/2025,Tuesday,12,Ops,8,Reminder,67,No,
+580,11/02/2025,Tuesday,16,Ops,19,Reminder,67,No,
+581,05/02/2025,Wednesday,14,Ops,47,FYI,31,No,
+582,21/01/2025,Tuesday,15,Ops,12,Meeting,61,No,
+583,10/01/2025,Friday,9,Manager,1,Meeting,29,No,
+584,18/02/2025,Tuesday,16,Manager,33,Meeting,39,No,
+585,05/02/2025,Wednesday,14,Manager,41,Meeting,34,Yes,16.6
+586,05/01/2025,Sunday,8,Exec,18,FYI,33,No,
+587,09/02/2025,Sunday,8,Ops,8,Reminder,20,Yes,37.1
+588,11/01/2025,Saturday,13,HR,25,Reminder,64,Yes,24.9
+589,02/02/2025,Sunday,16,HR,5,FYI,65,No,
+590,11/01/2025,Saturday,13,Manager,5,Reminder,15,No,
+591,01/01/2025,Wednesday,9,Manager,45,Reminder,67,Yes,30.4
+592,03/02/2025,Monday,12,Exec,27,Meeting,61,Yes,43.7
+593,02/01/2025,Thursday,8,Exec,9,Meeting,34,No,
+594,17/01/2025,Friday,16,Manager,29,FYI,33,Yes,6.3
+595,14/02/2025,Friday,18,Ops,9,FYI,65,Yes,12.8
+596,09/01/2025,Thursday,14,Ops,12,Meeting,52,Yes,20.3
+597,28/02/2025,Friday,16,Exec,42,FYI,56,No,
+598,19/01/2025,Sunday,11,HR,26,HR Request,48,Yes,28.3
+599,25/02/2025,Tuesday,8,Ops,43,FYI,20,Yes,15.1
+600,24/01/2025,Friday,9,HR,37,Reminder,52,Yes,10.8
+601,30/01/2025,Thursday,14,Manager,44,HR Request,64,Yes,29.6
+602,20/02/2025,Thursday,17,HR,19,HR Request,32,No,
+603,27/01/2025,Monday,14,Exec,45,Reminder,39,Yes,20.6
+604,02/02/2025,Sunday,10,Exec,20,Meeting,64,No,
+605,12/01/2025,Sunday,10,Exec,32,FYI,25,No,
+606,14/01/2025,Tuesday,17,HR,44,Reminder,34,No,
+607,08/02/2025,Saturday,11,HR,40,Reminder,67,Yes,3.5
+608,19/01/2025,Sunday,18,Manager,49,Meeting,65,No,
+609,06/01/2025,Monday,17,Exec,17,Meeting,64,Yes,12.7
+610,21/01/2025,Tuesday,13,Ops,5,HR Request,36,Yes,20.0
+611,29/01/2025,Wednesday,9,Exec,28,Meeting,44,Yes,23.6
+612,05/01/2025,Sunday,10,Manager,10,Meeting,39,Yes,27.0
+613,09/02/2025,Sunday,8,Manager,17,FYI,22,No,
+614,06/02/2025,Thursday,13,HR,26,HR Request,56,No,
+615,18/02/2025,Tuesday,9,Manager,8,Meeting,36,Yes,37.3
+616,01/03/2025,Saturday,17,HR,2,Reminder,22,No,
+617,14/01/2025,Tuesday,12,Ops,9,FYI,44,No,
+618,16/01/2025,Thursday,10,Ops,39,Reminder,67,Yes,29.5
+619,03/02/2025,Monday,9,Manager,4,Reminder,40,Yes,40.2
+620,07/01/2025,Tuesday,13,HR,32,Meeting,58,No,
+621,12/02/2025,Wednesday,12,HR,28,Meeting,41,No,
+622,14/02/2025,Friday,15,HR,8,Reminder,47,No,
+623,11/01/2025,Saturday,11,Ops,17,Meeting,18,Yes,11.8
+624,25/01/2025,Saturday,12,Manager,39,FYI,44,Yes,34.0
+625,19/01/2025,Sunday,10,Manager,7,Meeting,45,Yes,22.4
+626,20/02/2025,Thursday,10,Ops,38,Meeting,61,Yes,34.5
+627,16/02/2025,Sunday,14,HR,24,Reminder,43,No,
+628,26/02/2025,Wednesday,14,Exec,49,Reminder,36,Yes,28.6
+629,03/01/2025,Friday,15,Ops,36,FYI,64,No,
+630,09/01/2025,Thursday,8,Manager,49,HR Request,51,No,
+631,22/01/2025,Wednesday,17,HR,30,HR Request,26,No,
+632,26/02/2025,Wednesday,16,Ops,24,HR Request,63,Yes,41.3
+633,17/02/2025,Monday,14,Manager,12,Reminder,44,Yes,42.3
+634,13/01/2025,Monday,13,HR,25,Reminder,55,Yes,26.9
+635,14/01/2025,Tuesday,17,Exec,4,HR Request,33,Yes,22.1
+636,06/01/2025,Monday,8,Manager,47,FYI,61,No,
+637,11/02/2025,Tuesday,17,Manager,8,Meeting,46,Yes,17.8
+638,19/02/2025,Wednesday,18,Ops,17,FYI,18,Yes,21.6
+639,24/01/2025,Friday,14,Manager,37,Reminder,50,Yes,8.6
+640,12/02/2025,Wednesday,14,HR,17,HR Request,42,Yes,1.9
+641,18/01/2025,Saturday,15,Manager,40,FYI,22,No,
+642,06/02/2025,Thursday,15,Exec,37,Reminder,19,Yes,15.0
+643,25/02/2025,Tuesday,13,Manager,39,Meeting,61,Yes,43.0
+644,09/02/2025,Sunday,15,Manager,36,Meeting,38,Yes,3.4
+645,22/02/2025,Saturday,10,Ops,39,HR Request,22,No,
+646,08/01/2025,Wednesday,18,HR,33,FYI,17,No,
+647,25/01/2025,Saturday,14,Ops,12,Reminder,53,No,
+648,21/01/2025,Tuesday,17,Manager,15,Reminder,50,Yes,2.9
+649,25/01/2025,Saturday,13,HR,50,Reminder,26,Yes,37.9
+650,15/01/2025,Wednesday,17,Exec,4,Reminder,41,Yes,27.8
+651,06/01/2025,Monday,14,HR,20,HR Request,65,No,
+652,05/01/2025,Sunday,14,Ops,9,Meeting,34,Yes,17.1
+653,05/01/2025,Sunday,18,Ops,29,HR Request,66,Yes,42.2
+654,01/02/2025,Saturday,15,HR,42,FYI,50,No,
+655,05/02/2025,Wednesday,11,Exec,38,FYI,48,Yes,5.0
+656,06/01/2025,Monday,12,Ops,8,Reminder,70,Yes,45.5
+657,16/02/2025,Sunday,9,Ops,37,HR Request,31,Yes,27.4
+658,03/02/2025,Monday,12,Exec,18,HR Request,21,No,
+659,08/01/2025,Wednesday,11,Ops,25,HR Request,56,Yes,8.3
+660,28/01/2025,Tuesday,13,Ops,32,HR Request,66,Yes,38.3
+661,07/01/2025,Tuesday,14,Exec,7,FYI,53,No,
+662,23/02/2025,Sunday,17,Exec,49,Meeting,33,Yes,36.9
+663,27/02/2025,Thursday,15,HR,15,Reminder,15,Yes,34.8
+664,31/01/2025,Friday,15,Manager,9,Reminder,38,No,
+665,01/02/2025,Saturday,16,HR,38,Reminder,65,Yes,33.7
+666,02/01/2025,Thursday,8,Ops,47,FYI,69,Yes,12.9
+667,07/02/2025,Friday,13,Exec,39,FYI,61,No,
+668,24/02/2025,Monday,11,HR,34,Reminder,69,No,
+669,26/01/2025,Sunday,13,Exec,21,FYI,51,Yes,46.1
+670,21/01/2025,Tuesday,16,Ops,28,FYI,38,Yes,14.7
+671,08/01/2025,Wednesday,15,Exec,29,HR Request,36,No,
+672,23/02/2025,Sunday,11,Exec,40,Reminder,56,Yes,25.0
+673,31/01/2025,Friday,9,Ops,36,FYI,24,Yes,18.4
+674,21/01/2025,Tuesday,17,HR,42,Reminder,21,Yes,27.0
+675,06/02/2025,Thursday,8,Ops,12,Meeting,52,No,
+676,05/01/2025,Sunday,9,HR,47,HR Request,70,Yes,46.5
+677,22/01/2025,Wednesday,10,Ops,23,FYI,47,Yes,15.9
+678,25/01/2025,Saturday,8,Exec,40,HR Request,56,Yes,21.1
+679,19/02/2025,Wednesday,14,HR,31,FYI,61,Yes,11.5
+680,14/02/2025,Friday,11,HR,40,Meeting,25,Yes,42.7
+681,20/01/2025,Monday,17,Manager,35,FYI,50,Yes,18.9
+682,27/02/2025,Thursday,14,Ops,43,Reminder,22,No,
+683,23/02/2025,Sunday,9,Manager,26,HR Request,45,Yes,5.1
+684,04/01/2025,Saturday,18,Ops,25,Reminder,27,Yes,15.5
+685,24/01/2025,Friday,15,HR,23,Reminder,69,Yes,20.0
+686,11/02/2025,Tuesday,17,Manager,20,FYI,28,No,
+687,05/02/2025,Wednesday,15,Ops,41,Meeting,43,No,
+688,18/01/2025,Saturday,11,Manager,28,Meeting,60,Yes,28.6
+689,25/02/2025,Tuesday,8,Ops,43,Meeting,66,No,
+690,23/02/2025,Sunday,10,Ops,16,Meeting,45,Yes,35.9
+691,20/02/2025,Thursday,10,HR,34,FYI,64,Yes,31.7
+692,01/01/2025,Wednesday,13,HR,29,Reminder,31,No,
+693,27/01/2025,Monday,10,Manager,23,FYI,34,No,
+694,06/01/2025,Monday,8,Manager,29,HR Request,64,Yes,2.6
+695,31/01/2025,Friday,16,Manager,29,FYI,18,No,
+696,23/01/2025,Thursday,8,HR,30,Meeting,36,Yes,38.8
+697,11/01/2025,Saturday,8,HR,40,HR Request,30,Yes,13.6
+698,03/02/2025,Monday,15,HR,4,Reminder,20,Yes,47.3
+699,02/02/2025,Sunday,15,Ops,30,FYI,57,Yes,21.0
+700,28/01/2025,Tuesday,12,Ops,27,Meeting,69,Yes,7.7
+701,10/01/2025,Friday,9,HR,24,Meeting,27,Yes,3.2
+702,11/01/2025,Saturday,8,HR,16,HR Request,57,Yes,7.5
+703,12/01/2025,Sunday,18,Manager,33,FYI,38,Yes,20.8
+704,17/01/2025,Friday,17,Manager,29,HR Request,33,No,
+705,13/02/2025,Thursday,10,Manager,6,FYI,42,Yes,39.5
+706,04/02/2025,Tuesday,10,Exec,39,FYI,38,No,
+707,28/02/2025,Friday,10,Exec,20,Reminder,35,No,
+708,15/02/2025,Saturday,9,HR,30,Reminder,62,Yes,18.6
+709,26/02/2025,Wednesday,13,Manager,18,Reminder,28,Yes,22.6
+710,13/01/2025,Monday,10,Manager,8,Reminder,40,Yes,11.7
+711,29/01/2025,Wednesday,9,Ops,32,FYI,36,Yes,3.4
+712,12/01/2025,Sunday,14,Ops,47,Reminder,45,Yes,0.4
+713,03/02/2025,Monday,14,Manager,43,FYI,58,Yes,43.4
+714,26/02/2025,Wednesday,13,Ops,10,Reminder,41,No,
+715,26/01/2025,Sunday,16,Exec,48,FYI,35,No,
+716,16/02/2025,Sunday,8,Ops,37,Meeting,35,Yes,21.7
+717,23/02/2025,Sunday,10,Ops,30,Reminder,50,Yes,41.2
+718,27/01/2025,Monday,16,Exec,23,FYI,15,No,
+719,06/02/2025,Thursday,16,Manager,10,HR Request,49,Yes,25.5
+720,22/02/2025,Saturday,13,Manager,18,HR Request,54,No,
+721,18/01/2025,Saturday,15,HR,47,Reminder,44,No,
+722,27/01/2025,Monday,18,Ops,41,FYI,46,Yes,41.2
+723,12/02/2025,Wednesday,11,Ops,2,Meeting,29,No,
+724,21/01/2025,Tuesday,14,Exec,11,HR Request,17,No,
+725,09/01/2025,Thursday,17,Ops,31,Meeting,23,No,
+726,25/02/2025,Tuesday,16,Ops,43,Reminder,38,Yes,13.2
+727,26/01/2025,Sunday,17,Ops,20,HR Request,40,Yes,30.1
+728,17/02/2025,Monday,10,HR,27,Meeting,55,Yes,18.6
+729,25/02/2025,Tuesday,15,Exec,49,Reminder,60,Yes,40.6
+730,07/01/2025,Tuesday,8,Ops,46,Meeting,41,Yes,31.7
+731,20/01/2025,Monday,15,Ops,17,FYI,56,Yes,6.9
+732,30/01/2025,Thursday,17,Exec,50,FYI,45,Yes,9.2
+733,28/01/2025,Tuesday,8,HR,9,Meeting,24,Yes,3.0
+734,20/02/2025,Thursday,13,Ops,38,HR Request,43,Yes,12.3
+735,21/01/2025,Tuesday,11,HR,44,FYI,64,No,
+736,20/02/2025,Thursday,12,HR,24,Reminder,39,No,
+737,13/02/2025,Thursday,17,HR,48,Reminder,64,Yes,2.6
+738,15/02/2025,Saturday,15,Manager,7,Reminder,46,Yes,7.0
+739,19/02/2025,Wednesday,13,Manager,16,Meeting,70,Yes,41.7
+740,19/02/2025,Wednesday,17,Manager,43,Meeting,27,Yes,16.1
+741,02/02/2025,Sunday,14,Manager,10,Reminder,23,No,
+742,13/02/2025,Thursday,8,Ops,13,HR Request,61,No,
+743,17/02/2025,Monday,15,Manager,6,Reminder,26,No,
+744,13/01/2025,Monday,9,Exec,37,FYI,40,Yes,32.8
+745,03/02/2025,Monday,9,Exec,27,HR Request,48,Yes,5.5
+746,01/01/2025,Wednesday,8,Exec,44,HR Request,35,Yes,33.4
+747,15/02/2025,Saturday,18,Manager,50,FYI,36,Yes,8.0
+748,16/01/2025,Thursday,18,Exec,2,FYI,67,Yes,18.5
+749,23/02/2025,Sunday,12,Ops,26,HR Request,17,Yes,18.9
+750,23/01/2025,Thursday,13,HR,20,Meeting,15,Yes,21.5
+751,26/02/2025,Wednesday,12,Ops,39,HR Request,46,Yes,40.1
+752,17/01/2025,Friday,17,Exec,9,HR Request,52,Yes,11.5
+753,13/02/2025,Thursday,18,Exec,3,Meeting,59,No,
+754,21/01/2025,Tuesday,11,Ops,2,Meeting,42,Yes,3.5
+755,12/02/2025,Wednesday,18,Exec,30,FYI,29,No,
+756,24/02/2025,Monday,17,Ops,9,HR Request,45,Yes,38.3
+757,17/02/2025,Monday,12,Exec,21,FYI,18,Yes,10.6
+758,19/02/2025,Wednesday,10,Manager,17,Reminder,22,Yes,40.6
+759,07/02/2025,Friday,11,HR,18,Reminder,55,Yes,23.5
+760,24/01/2025,Friday,17,HR,20,FYI,39,No,
+761,26/01/2025,Sunday,10,Exec,30,Reminder,56,No,
+762,20/02/2025,Thursday,9,Exec,47,Meeting,49,Yes,19.8
+763,06/02/2025,Thursday,17,Manager,43,FYI,55,Yes,11.1
+764,27/02/2025,Thursday,13,Exec,20,FYI,41,Yes,40.8
+765,05/01/2025,Sunday,11,Ops,21,Meeting,34,Yes,5.7
+766,30/01/2025,Thursday,17,Manager,10,Reminder,68,Yes,4.3
+767,26/01/2025,Sunday,9,Exec,49,HR Request,36,Yes,7.5
+768,25/02/2025,Tuesday,14,Manager,10,Meeting,59,No,
+769,04/01/2025,Saturday,9,Exec,13,Reminder,66,Yes,36.9
+770,08/02/2025,Saturday,16,Exec,35,HR Request,58,Yes,46.3
+771,06/02/2025,Thursday,9,Manager,19,Meeting,45,No,
+772,10/02/2025,Monday,9,Manager,40,FYI,59,No,
+773,12/01/2025,Sunday,14,Ops,6,Meeting,27,Yes,44.2
+774,08/01/2025,Wednesday,9,Ops,10,Meeting,68,No,
+775,01/02/2025,Saturday,18,HR,40,HR Request,60,No,
+776,02/02/2025,Sunday,18,Manager,8,HR Request,29,Yes,43.6
+777,24/01/2025,Friday,18,Ops,46,HR Request,26,Yes,34.3
+778,30/01/2025,Thursday,16,Exec,4,Meeting,42,Yes,40.5
+779,06/02/2025,Thursday,8,HR,33,Meeting,65,Yes,4.5
+780,18/01/2025,Saturday,17,Exec,18,Reminder,66,Yes,45.0
+781,17/02/2025,Monday,18,Manager,25,FYI,48,No,
+782,31/01/2025,Friday,17,HR,43,HR Request,18,Yes,35.8
+783,08/01/2025,Wednesday,9,Exec,11,HR Request,63,No,
+784,21/02/2025,Friday,16,Manager,32,FYI,33,No,
+785,29/01/2025,Wednesday,14,Ops,15,HR Request,56,No,
+786,23/02/2025,Sunday,13,Manager,7,Meeting,52,Yes,5.4
+787,17/01/2025,Friday,11,Manager,7,HR Request,44,Yes,33.7
+788,27/02/2025,Thursday,16,Ops,25,HR Request,62,No,
+789,08/02/2025,Saturday,9,Exec,50,FYI,48,Yes,14.2
+790,23/01/2025,Thursday,15,HR,38,Reminder,36,Yes,0.3
+791,25/01/2025,Saturday,11,Ops,44,Meeting,53,Yes,44.3
+792,05/02/2025,Wednesday,12,Manager,14,FYI,58,Yes,12.4
+793,27/01/2025,Monday,10,Manager,4,FYI,18,Yes,45.2
+794,30/01/2025,Thursday,11,Ops,7,HR Request,69,Yes,33.8
+795,29/01/2025,Wednesday,9,Exec,14,HR Request,15,Yes,10.9
+796,24/02/2025,Monday,16,Ops,8,Reminder,18,No,
+797,07/01/2025,Tuesday,17,Exec,42,HR Request,19,Yes,23.4
+798,19/02/2025,Wednesday,8,Ops,47,Meeting,31,Yes,18.9
+799,05/02/2025,Wednesday,16,Ops,17,Meeting,39,No,
+800,01/02/2025,Saturday,13,HR,31,Meeting,51,Yes,43.6
+801,20/02/2025,Thursday,10,Ops,18,FYI,17,Yes,5.2
+802,02/01/2025,Thursday,12,Manager,14,Reminder,41,Yes,34.8
+803,26/02/2025,Wednesday,13,Exec,26,FYI,67,Yes,12.1
+804,27/02/2025,Thursday,18,Ops,4,Meeting,35,Yes,30.8
+805,21/01/2025,Tuesday,11,Manager,38,FYI,15,Yes,13.2
+806,05/01/2025,Sunday,12,Manager,30,FYI,66,Yes,28.5
+807,21/01/2025,Tuesday,10,Manager,8,HR Request,45,No,
+808,25/02/2025,Tuesday,15,Manager,47,HR Request,67,Yes,26.2
+809,06/02/2025,Thursday,8,HR,31,FYI,21,Yes,28.7
+810,09/02/2025,Sunday,15,HR,45,FYI,64,Yes,47.4
+811,07/01/2025,Tuesday,17,Manager,36,FYI,51,Yes,29.3
+812,16/01/2025,Thursday,13,HR,14,FYI,46,Yes,8.0
+813,07/02/2025,Friday,16,Manager,39,FYI,62,Yes,7.8
+814,09/02/2025,Sunday,15,Manager,12,HR Request,61,Yes,45.7
+815,02/02/2025,Sunday,9,Manager,22,Meeting,59,No,
+816,09/02/2025,Sunday,9,Exec,18,Meeting,37,Yes,27.7
+817,15/01/2025,Wednesday,9,Ops,22,FYI,33,No,
+818,01/02/2025,Saturday,10,Manager,45,FYI,42,Yes,14.6
+819,16/01/2025,Thursday,8,Exec,22,FYI,31,Yes,5.3
